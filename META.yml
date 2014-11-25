@@ -29,4 +29,4 @@ requires:
   Text::CSV_XS: 0
 resources:
   repository: https://github.com/kmx/pdl-io-csv
-version: 0.003
+version: 0.004
