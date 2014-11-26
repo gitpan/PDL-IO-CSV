@@ -1,5 +1,5 @@
 {
-   "abstract" : "Create PDL from CSV file (optimized for speed and large data)",
+   "abstract" : "Load/save PDL from/to CSV file (optimized for speed and large data)",
    "author" : [
       "KMX <kmx@cpan.org>"
    ],
@@ -50,5 +50,5 @@
          "url" : "https://github.com/kmx/pdl-io-csv"
       }
    },
-   "version" : "0.004"
+   "version" : "0.005"
 }
